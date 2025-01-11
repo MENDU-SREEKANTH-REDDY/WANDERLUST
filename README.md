@@ -1,5 +1,5 @@
 # WANDERLUST
-A complete MERN stack web application  that is similar to airbnb
+A complete MERN stack web application inspired by airbnb
 
 CHECK OUT FULL PROJECT:
 
